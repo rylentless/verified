@@ -131,7 +131,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
+          "title": "Email Here To Purchase",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
